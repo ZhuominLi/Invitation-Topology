@@ -5,7 +5,7 @@
   
 <img width="240" alt="image" src="https://github.com/ZhuominLi/Invitation-Topology/assets/73721315/d71c6b26-4b30-425e-9b08-1c5643826f6d">
 
-- Logicall, the invitationships could be unwinded as chains graphs
+- Logically, the invitationships could be unwinded as chains graphs
   
 <img width="378" alt="image" src="https://github.com/ZhuominLi/Invitation-Topology/assets/73721315/87efb68d-6859-46cf-b8fc-89854e1ebf8d">
 
